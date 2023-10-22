@@ -19,7 +19,7 @@ public class A2HasTeen extends ConsoleProgram {
         boolean isTeen3 = num3 >= 13 && num3 <= 19;
 
         // If one or more of the values are teen then it prints true.
-        if(isTeen1 || isTeen2 || isTeen3) {
+        if (isTeen1 || isTeen2 || isTeen3) {
             System.out.println(true);
         }
         // Otherwise it prints false.
